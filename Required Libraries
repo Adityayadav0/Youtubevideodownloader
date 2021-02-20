@@ -1,0 +1,6 @@
+pafy
+io
+Tkinter to import ttk
+PIL to import ImageTk
+PIL.Image
+urllib.request to import urlopen
